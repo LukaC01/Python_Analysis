@@ -52,6 +52,11 @@ This project explores medical examination data to identify relationships between
 - `medical_examination.csv` – Input medical dataset
 
 ---
+<img width="1058" height="500" alt="catplot" src="https://github.com/user-attachments/assets/da0cfe40-e723-4351-8926-8b81e99cea4b" />
+
+---
+<img width="1200" height="1200" alt="heatmap" src="https://github.com/user-attachments/assets/56b011aa-4d20-4ee5-ae8b-cc2f55989898" />
+
 
 ## 3️⃣ Sea Level Predictor
 
@@ -71,6 +76,8 @@ This project analyzes historical global sea level data and builds linear regress
 - `epa-sea-level.csv` – Historical sea level dataset
 
 ---
+<img width="640" height="480" alt="sea_level_plot" src="https://github.com/user-attachments/assets/c69fafa3-b889-4fb7-91ac-eb0aca4ad81e" />
+
 
 # 🛠 Technologies Used
 
