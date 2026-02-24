@@ -27,11 +27,12 @@ This project analyzes daily website page view data over multiple years to uncove
 
 ---
 <img width="1500" height="500" alt="line_plot" src="https://github.com/user-attachments/assets/ff7201d7-71ba-46cc-aaae-fa38fef441be" />
+
 ---
 <img width="700" height="600" alt="bar_plot" src="https://github.com/user-attachments/assets/569e7d01-8e77-4ae9-aa5e-c093a1381658" />
+
 ---
 <img width="1700" height="500" alt="box_plot" src="https://github.com/user-attachments/assets/2129493a-9d41-4f51-b873-e6a84c797e5a" />
----
 
 ## 2️⃣ Medical Data Visualizer
 
